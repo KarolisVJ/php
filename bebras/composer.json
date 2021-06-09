@@ -1,0 +1,16 @@
+{
+    "name": "karolis/bebras",
+    "description": "undescribable",
+    "authors": [
+        {
+            "name": "Karolis Jachimavičius",
+            "email": "76951309+KarolisVJ@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,1 @@
+<h2>Blade Hero Mexico -- {{$parametras}}</h2>

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/ui": "^3.3",
+        "bdk/debug": "~3.0"
+    }
+}
